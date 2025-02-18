@@ -1,1 +1,3 @@
-# Ta23aLearnNode# Ta23aLearnNode
+# ta23alearnnode
+
+`NODE_OPTIONS=--disable-warning=ExperimentalWarning --disable-warning=DeprecationWarning`
